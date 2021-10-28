@@ -1,0 +1,50 @@
+abcde z
+zyxwv
+abcde
+True
+
+abcde c
+zyxxw
+abcde
+True
+
+this is plaintext i
+gsri sj mqbtpjyfj
+this is plaintext
+True
+
+This Is Plaintext i
+Gsri Sj Mqbtpjyfj
+This Is Plaintext
+True
+
+This Is Plaintext I
+Gsri Sj Mqbtpjyfj
+This Is Plaintext
+True
+
+I am sending 100 dollars, right now. n
+R zn hvmxsnv 100 ynqqbkj, ktvui oog.
+I am sending 100 dollars, right now.
+True
+
+This is a poem.
+About nothing,
+at all ,
+Gsrh rh z klvn.
+Zylfg mlgsrmt,
+ah app
+This is a poem.
+About nothing,
+at all
+True
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa a
+zabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefg
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+True
+
+None bad key
+gsrh urmzo vcznkov droo izrhv zm vcxvkgrlm
+None
+True
